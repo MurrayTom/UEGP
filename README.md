@@ -1,2 +1,1 @@
-# UEGP
-This is the official implementation of UEGP: Unified Expert-Guided Pre-training for Knowledge Rekindle (Findings of NAACL2024)
+# DivSafe: Evaluating the Generalization of LLM Safety Training Across Diverse Tasks and Prompt Types
